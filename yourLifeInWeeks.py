@@ -1,6 +1,6 @@
 
 
-# The programme calculates the number of days, weeks, and months you will if your were to live 100 years
+# The programme calculates the number of days, weeks, and months you will have if your were to live 100 years
 
 age_as_int = int(input("What is your current Age?: "))
 years_remaining = 100 - age_as_int
